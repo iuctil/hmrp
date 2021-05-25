@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "//ctil.iu.edu/hmrp"
+baseURL = "//ctil.iu.edu/projects/hmrp"
 title = "Educenter | hugo education template"
 theme = "educenter-hugo"
 #themesDir = "../.."
